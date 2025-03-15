@@ -63,7 +63,12 @@ IKEA, a global leader in home furnishings, faces **digital transformation challe
 
 ## 📂 **Project Files**  
 📊   [IKEA_Cloud_Strategy_Presentation (2).pptx](https://github.com/user-attachments/files/19255995/IKEA_Cloud_Strategy_Presentation.2.pptx)
+
 ✅[IKEA_Cloud_SQL_Report.zip](https://github.com/user-attachments/files/19260358/IKEA_Cloud_SQL_Report.zip)
+
+📸 **SQL Query Results Screenshot:**  
+![SQL_Query_Results png](https://github.com/user-attachments/assets/dfb3e984-9e9a-4eb7-985e-84ba2d2d1065)
+
 
 
 
